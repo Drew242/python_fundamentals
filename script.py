@@ -15,9 +15,12 @@ def decision(answer):
     else:
         print("Please choose an option")
 
-
 decision(answer)
 
 
 # Apparantly arrays are called lists in Python
 # And hashes are called dictionaries
+# "string".upper() "string".lower"
+# "string"[::-1] - reverses the string
+# strings are okay for the dot method call, most data types prefer to be
+# an argument as in len(argument) for length 
